@@ -2,16 +2,15 @@ import os
 import tldextract
 
 # Path to the folder containing the input and output files
-folder_path = "./explicit"
+in_folder_path = "./sources"
+out_folder_path = "./output"
 
 # File paths
-source_file = os.path.join(folder_path, 'source.txt')
-master_file = os.path.join(folder_path, 'apex_plain.txt')
-abp_file = os.path.join(folder_path, 'apex_abp.txt')
-unbound_file = os.path.join(folder_path, 'apex_unbound.txt')
-subdomains_file = os.path.join(folder_path, 'subdomain_plain.txt')
-whitelist_file = "./program/whitelist.txt"  # Root directory whitelist file
-output_file = "./program/output.txt"  # Output log file
+explicit_video_file = os.path.join(folder_path, 'explicit_video.txt')
+proxy_file = os.path.join(folder_path, 'proxy.txt')
+
+apex_unbound_file = os.path.join(folder_path, 'apex_unbound.txt')
+log_file = os.path.join(folder_path, 'log.txt')  # Output log file
 
 # Open output file for writing logs
 with open(output_file, 'w') as output:
