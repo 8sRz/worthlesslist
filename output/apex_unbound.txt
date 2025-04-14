@@ -1,1 +1,3 @@
-
+*.croxyproxy.com
+*.dailymotion.com
+*.tokyvideo.com
