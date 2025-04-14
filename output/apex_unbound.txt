@@ -1,6 +1,8 @@
 *.croxyproxy.com
 *.croxyproxy.rocks
 *.dailymotion.com
+*.filmekseni.net
+*.lacajalgbt.site
 *.ok.ru
 *.tokyvideo.com
 *.videa.hu
