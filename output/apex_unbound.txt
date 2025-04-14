@@ -2,3 +2,4 @@
 *.croxyproxy.rocks
 *.dailymotion.com
 *.tokyvideo.com
+*.videa.hu
