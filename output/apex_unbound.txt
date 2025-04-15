@@ -1,3 +1,4 @@
+*.archive.org
 *.bitchute.com
 *.croxyproxy.com
 *.croxyproxy.rocks
