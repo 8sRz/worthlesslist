@@ -6,5 +6,6 @@
 *.filmekseni.net
 *.lacajalgbt.site
 *.ok.ru
+*.qfilm.tv
 *.tokyvideo.com
 *.videa.hu
