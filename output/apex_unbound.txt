@@ -1,4 +1,5 @@
 *.archive.org
+*.bienstream.org
 *.bitchute.com
 *.croxyproxy.com
 *.croxyproxy.rocks
@@ -8,4 +9,5 @@
 *.ok.ru
 *.qfilm.tv
 *.tokyvideo.com
+*.uqload.net
 *.videa.hu
