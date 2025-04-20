@@ -4,6 +4,7 @@
 *.croxyproxy.com
 *.croxyproxy.rocks
 *.dailymotion.com
+*.febspot.com
 *.filmekseni.net
 *.lacajalgbt.site
 *.ok.ru
