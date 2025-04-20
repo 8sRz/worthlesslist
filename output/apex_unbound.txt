@@ -8,6 +8,7 @@
 *.filmekseni.net
 *.lacajalgbt.site
 *.ok.ru
+*.proxyium.com
 *.qfilm.tv
 *.tokyvideo.com
 *.uqload.net
