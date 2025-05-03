@@ -10,6 +10,8 @@
 *.ok.ru
 *.proxyium.com
 *.qfilm.tv
+*.steemit.com
+*.steemitimages.com
 *.tokyvideo.com
 *.uqload.net
 *.videa.hu
