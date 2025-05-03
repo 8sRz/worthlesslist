@@ -13,5 +13,6 @@
 *.steemit.com
 *.steemitimages.com
 *.tokyvideo.com
+*.tubitv.com
 *.uqload.net
 *.videa.hu
