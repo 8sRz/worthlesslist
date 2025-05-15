@@ -1,6 +1,7 @@
 *.archive.org
 *.bienstream.org
 *.bitchute.com
+*.coproxy.io
 *.croxyproxy.com
 *.croxyproxy.rocks
 *.dailymotion.com
