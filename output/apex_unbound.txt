@@ -7,6 +7,7 @@
 *.febspot.com
 *.filmekseni.net
 *.lacajalgbt.site
+*.learnbridge.institute
 *.ok.ru
 *.proxyium.com
 *.qfilm.tv
