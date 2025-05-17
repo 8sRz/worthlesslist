@@ -3,6 +3,7 @@
 *.azureserv.com
 *.bienstream.org
 *.bitchute.com
+*.blockaway.net
 *.coproxy.io
 *.croxyproxy.com
 *.croxyproxy.rocks
