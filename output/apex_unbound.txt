@@ -1,5 +1,6 @@
 *.4everproxy.com
 *.archive.org
+*.azureserv.com
 *.bienstream.org
 *.bitchute.com
 *.coproxy.io
