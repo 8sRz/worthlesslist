@@ -1,3 +1,4 @@
+*.4everproxy.com
 *.archive.org
 *.bienstream.org
 *.bitchute.com
@@ -7,10 +8,12 @@
 *.dailymotion.com
 *.febspot.com
 *.filmekseni.net
+*.hideproxy.me
 *.lacajalgbt.site
 *.learnbridge.institute
 *.ok.ru
 *.proxyium.com
+*.proxysite.com
 *.qfilm.tv
 *.steemit.com
 *.steemitimages.com
