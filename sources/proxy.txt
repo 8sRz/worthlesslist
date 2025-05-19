@@ -12,3 +12,4 @@ webproxy.naproxy.com
 www.blockaway.net
 www.croxyproxy.com
 www.croxyproxy.rocks
+www.datatech.icu
