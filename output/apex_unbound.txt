@@ -15,6 +15,7 @@
 *.hideproxy.me
 *.lacajalgbt.site
 *.learnbridge.institute
+*.naproxy.com
 *.ok.ru
 *.proxyium.com
 *.proxysite.com
