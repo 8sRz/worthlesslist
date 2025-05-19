@@ -14,6 +14,7 @@
 *.febspot.com
 *.filmekseni.net
 *.hideproxy.me
+*.kproxy.com
 *.lacajalgbt.site
 *.learnbridge.institute
 *.naproxy.com
