@@ -1,10 +1,12 @@
 *.4everproxy.com
 *.archive.org
 *.azureserv.com
+*.best-server.work
 *.bienstream.org
 *.bitchute.com
 *.blockaway.net
 *.coproxy.io
+*.croxyproxy.best
 *.croxyproxy.com
 *.croxyproxy.rocks
 *.dailymotion.com
