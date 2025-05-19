@@ -10,6 +10,7 @@
 *.croxyproxy.com
 *.croxyproxy.rocks
 *.dailymotion.com
+*.datatech.icu
 *.febspot.com
 *.filmekseni.net
 *.hideproxy.me
