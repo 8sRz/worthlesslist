@@ -10,6 +10,7 @@ server5.kproxy.com
 us9.proxysite.com
 us.best-server.work
 webproxy.naproxy.com
+websiteproxy.net
 www.blockaway.net
 www.croxyproxy.com
 www.croxyproxy.rocks
