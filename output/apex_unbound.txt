@@ -28,4 +28,5 @@
 *.tubitv.com
 *.uqload.net
 *.videa.hu
+*.websiteproxy.net
 *.youtubeunblocked.live
