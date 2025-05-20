@@ -15,6 +15,7 @@
 *.febspot.com
 *.filmekseni.net
 *.hideproxy.me
+*.hidester.one
 *.kproxy.com
 *.lacajalgbt.site
 *.learnbridge.institute
@@ -23,6 +24,7 @@
 *.proxyium.com
 *.proxysite.com
 *.qfilm.tv
+*.sslsecureproxy.com
 *.steemit.com
 *.steemitimages.com
 *.tokyvideo.com
