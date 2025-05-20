@@ -1,4 +1,5 @@
 *.4everproxy.com
+*.911proxy.com
 *.archive.org
 *.azureserv.com
 *.best-server.work
