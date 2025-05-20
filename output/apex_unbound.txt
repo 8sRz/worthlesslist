@@ -27,6 +27,7 @@
 *.steemitimages.com
 *.tokyvideo.com
 *.tubitv.com
+*.unblockvideos.com
 *.uqload.net
 *.videa.hu
 *.websiteproxy.net
