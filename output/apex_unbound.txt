@@ -4,6 +4,7 @@
 *.azureserv.com
 *.best-server.work
 *.bienstream.org
+*.bingle.pw
 *.bitchute.com
 *.blockaway.net
 *.coproxy.io
@@ -32,5 +33,6 @@
 *.unblockvideos.com
 *.uqload.net
 *.videa.hu
+*.vpnbook.com
 *.websiteproxy.net
 *.youtubeunblocked.live
