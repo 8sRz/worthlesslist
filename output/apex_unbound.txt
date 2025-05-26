@@ -19,6 +19,7 @@
 *.filmekseni.net
 *.hideproxy.me
 *.hidester.one
+*.instantunblock.com
 *.kproxy.com
 *.lacajalgbt.site
 *.learnbridge.institute
