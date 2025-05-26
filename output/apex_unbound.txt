@@ -8,8 +8,10 @@
 *.bitchute.com
 *.blockaway.net
 *.coproxy.io
+*.croxy.org
 *.croxyproxy.best
 *.croxyproxy.com
+*.croxyproxy.net
 *.croxyproxy.rocks
 *.dailymotion.com
 *.datatech.icu
@@ -26,6 +28,7 @@
 *.proxysite.com
 *.qfilm.tv
 *.sslsecureproxy.com
+*.stackfront.xyz
 *.steemit.com
 *.steemitimages.com
 *.tokyvideo.com
