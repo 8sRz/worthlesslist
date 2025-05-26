@@ -35,7 +35,7 @@ with open(log_file_path, 'w') as output:
 
                     # Extract the registered domain using tldextract
                     extracted = tldextract.extract(domain)
-                    registered_domain = extracted.top_domain_under_public_suffix
+                    registered_domain = extracted.registered_domain
 
                     if registered_domain:
                         registered_domains.add((registered_domain, domain))  # Store both registrable and full domain
