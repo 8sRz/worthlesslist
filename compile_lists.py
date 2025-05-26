@@ -10,7 +10,7 @@ blocklist_file_paths = [os.path.join(in_folder_path, 'explicit_video.txt'), os.p
 whitelist_file_path = os.path.join(in_folder_path, 'essential.txt')
 
 apex_unbound_file_path = os.path.join(out_folder_path, 'apex_unbound.txt')
-subdomain_file_path = os.path.join(out_folder_path, 'essential.txt')
+subdomain_file_path = os.path.join(out_folder_path, 'subdomain.txt')
 log_file_path = os.path.join(out_folder_path, 'log.txt')  # Output log file
 
 # Open output file for writing logs
