@@ -17,6 +17,7 @@ instantunblock.com
 kproxy.com
 learnbridge.institute
 naproxy.com
+proxy.gd
 proxyium.com
 proxysite.com
 sslsecureproxy.com
