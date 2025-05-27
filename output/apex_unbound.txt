@@ -15,6 +15,7 @@
 *.croxyproxy.rocks
 *.dailymotion.com
 *.datatech.icu
+*.fastproxy.win
 *.febspot.com
 *.filmekseni.net
 *.hideproxy.me
@@ -25,6 +26,7 @@
 *.learnbridge.institute
 *.naproxy.com
 *.ok.ru
+*.proxfree.com
 *.proxy.gd
 *.proxyium.com
 *.proxysite.com
