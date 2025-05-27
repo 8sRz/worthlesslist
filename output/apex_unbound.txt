@@ -25,6 +25,7 @@
 *.learnbridge.institute
 *.naproxy.com
 *.ok.ru
+*.proxy.gd
 *.proxyium.com
 *.proxysite.com
 *.qfilm.tv
