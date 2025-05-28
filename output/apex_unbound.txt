@@ -17,6 +17,7 @@
 *.datatech.icu
 *.fastflirtnetwork.com
 *.fastproxy.win
+*.fc2.com
 *.febspot.com
 *.filmekseni.net
 *.fmovies.international
