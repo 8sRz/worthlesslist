@@ -3,7 +3,7 @@ name: Compile Lists
 on:
   push:
     paths:
-      - sources/explicit_video.txt  # Trigger workflow when this file is updated
+      - sources/explicit.txt  # Trigger workflow when this file is updated
       - sources/proxy.txt  # Trigger workflow when this file is updated
       - sources/essential.txt  # Trigger workflow when this file is updated
   workflow_dispatch:  # Allow manual triggering of the workflow
