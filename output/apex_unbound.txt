@@ -21,6 +21,7 @@
 *.febspot.com
 *.filmekseni.net
 *.fmovies.international
+*.freevideoproxy.com
 *.hideproxy.me
 *.hidester.one
 *.instantunblock.com
@@ -46,6 +47,7 @@
 *.unblockvideos.com
 *.uqload.net
 *.videa.hu
+*.videoproxy.site
 *.vidlink.pro
 *.vpnbook.com
 *.websiteproxy.net
