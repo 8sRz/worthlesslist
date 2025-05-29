@@ -1,2 +1,2 @@
-Error: Blank in whitelist file on line 1
+Error: File not found: ./sources/explicit_video.txtError: Blank in whitelist file on line 1
 Processing complete
