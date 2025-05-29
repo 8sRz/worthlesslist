@@ -6,7 +6,7 @@ in_folder_path = "./sources"
 out_folder_path = "./output"
 
 # File paths
-blocklist_file_paths = [os.path.join(in_folder_path, 'explicit_video.txt'), os.path.join(in_folder_path, 'proxy.txt')]
+blocklist_file_paths = [os.path.join(in_folder_path, 'explicit.txt'), os.path.join(in_folder_path, 'proxy.txt')]
 whitelist_file_path = os.path.join(in_folder_path, 'essential.txt')
 
 apex_unbound_file_path = os.path.join(out_folder_path, 'apex_unbound.txt')
