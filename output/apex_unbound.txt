@@ -11296,7 +11296,6 @@
 *.wowjizz.com
 *.wowmodels.com
 *.wowpornlist.xyz
-*.wp.com
 *.wporncomics.com
 *.wptri.com
 *.wstube.com

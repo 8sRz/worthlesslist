@@ -1,2 +1,1 @@
-Error: Blank in whitelist file on line 1
 Processing complete
