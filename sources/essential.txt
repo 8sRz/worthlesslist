@@ -1,1 +1,2 @@
+cloudfront.net
 wp.com
