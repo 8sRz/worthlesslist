@@ -22,6 +22,7 @@ naproxy.com
 proxfree.com
 proxy.gd
 proxyium.com
+proxyorb.com
 proxysite.com
 sslsecureproxy.com
 stackfront.xyz
