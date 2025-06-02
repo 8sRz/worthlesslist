@@ -8413,6 +8413,7 @@
 *.proxy.gd
 *.proxyadult.org
 *.proxyium.com
+*.proxyorb.com
 *.proxysite.com
 *.pssy.xyz
 *.pstirtir.com
