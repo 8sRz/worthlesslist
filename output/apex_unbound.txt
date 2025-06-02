@@ -11055,6 +11055,7 @@
 *.voyeurzine.com
 *.voyeurzz.com
 *.vpnbook.com
+*.vpnproxy.site
 *.vporn.icu
 *.vporno.eu
 *.vporno.xyz
