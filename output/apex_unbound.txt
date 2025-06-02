@@ -8410,6 +8410,7 @@
 *.protoporn.com
 *.proudwarmsex.com
 *.proxfree.com
+*.proxy-123.com
 *.proxy.gd
 *.proxyadult.org
 *.proxyium.com
@@ -10306,6 +10307,7 @@
 *.tonicporn.com
 *.tonightsgirlfriend.com
 *.toobig4teen.com
+*.toolsbox.com
 *.toomics.com
 *.toonpass.com
 *.toons-empire.com
