@@ -515,7 +515,6 @@
 *.aisan-porn.org
 *.aiwallx.com
 *.aiwards.com
-*.akamaized.net
 *.aki-h.com
 *.akiba-online.com
 *.akume.games
