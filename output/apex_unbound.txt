@@ -3261,6 +3261,7 @@
 *.fluffychicks.net
 *.flyflv.com
 *.flyingjizz.com
+*.flyproxy.com
 *.fmddl.com
 *.fmovies.international
 *.fmovies24.to
@@ -6640,6 +6641,7 @@
 *.myhotcomix.com
 *.myhottits.com
 *.myhubhd.org
+*.myiphide.com
 *.mylesbianfuck.com
 *.mylesbie.com
 *.mylf.com
@@ -8414,6 +8416,7 @@
 *.proxy.gd
 *.proxyadult.org
 *.proxyium.com
+*.proxylite.com
 *.proxyorb.com
 *.proxysite.com
 *.pssy.xyz
@@ -9638,6 +9641,7 @@
 *.steamygamer.com
 *.steemit.com
 *.steemitimages.com
+*.steganos.com
 *.stepdaughter.love
 *.stepfamilyporn.xyz
 *.stepmom.one
@@ -11300,6 +11304,7 @@
 *.wowmodels.com
 *.wowpornlist.xyz
 *.wporncomics.com
+*.wproxy.info
 *.wptri.com
 *.wstube.com
 *.wtf.porn
