@@ -1,1 +1,2 @@
-
+akamaized.net
+cloudfront.net
