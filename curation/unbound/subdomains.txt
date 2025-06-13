@@ -1,2 +1,0 @@
-akamaized.net
-cloudfront.net
