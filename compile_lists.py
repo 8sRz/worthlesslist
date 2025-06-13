@@ -102,7 +102,7 @@ try:
 
         final_wildcard_domains = set()
         final_subdomains = set()
-        for registered_domain, full_domain in full_and_registered_domain_pairs:
+        for full_domain, registered_domain in full_and_registered_domain_pairs:
             if registered_domain in whitelisted_allowed_domains:
                 continue
             elif registered_domain in whitelisted_allowed_except_subdomains_domains:
