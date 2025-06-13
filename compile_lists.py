@@ -29,25 +29,25 @@ try:
         full_and_registered_domain_pairs = set()
 
         for file_path in (blocklist_registered_file_paths + blocklist_subdomain_file_paths):
-        try:
-            with open(file_path, 'r') as file:
-                lines = file.readlines()
-
-                for line_number, line in enumerate(lines, start=1): 
-                    domain = line.strip()
-                    if not domain:
-                        log_message = f"Error: Blank on line {line_number} in file {file_path}\n"
-                        output.write(log_message)
-                        continue
-
-                    extracted = tldextract.extract(domain)
-                    registered_domain = extracted.registered_domain
-
-                    if registered_domain:
-                        registered_domains.add((registered_domain, domain))
-                    else:
-                        log_message = f"Error: Invalid domain '{domain}' on line {line_number} in file {file_path}\n"
-                        output.write(log_message)
+            try:
+                with open(file_path, 'r') as file:
+                    lines = file.readlines()
+    
+                    for line_number, line in enumerate(lines, start=1): 
+                        domain = line.strip()
+                        if not domain:
+                            log_message = f"Error: Blank on line {line_number} in file {file_path}\n"
+                            output.write(log_message)
+                            continue
+    
+                        extracted = tldextract.extract(domain)
+                        registered_domain = extracted.registered_domain
+    
+                        if registered_domain:
+                            registered_domains.add((registered_domain, domain))
+                        else:
+                            log_message = f"Error: Invalid domain '{domain}' on line {line_number} in file {file_path}\n"
+                            output.write(log_message)
         except FileNotFoundError:
             log_message = f"Error: File not found: {file_path}"
             output.write(log_message)
