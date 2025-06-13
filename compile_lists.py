@@ -111,7 +111,7 @@ try:
                 final_wildcard_domains.add(f"*.{registered_domain}\n")
     
         sorted_wildcard_domains = sorted(final_wildcard_domains)
-        sorted_subdomains = sorted(subdomains)
+        sorted_subdomains = sorted(final_subdomains)
 
         with open(all_domains_file_path, 'w') as file:
             file.writelines(sorted_subdomains)
