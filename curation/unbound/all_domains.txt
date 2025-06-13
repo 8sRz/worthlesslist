@@ -11305,6 +11305,7 @@ cloudfront.net
 *.wowjizz.com
 *.wowmodels.com
 *.wowpornlist.xyz
+*.wp.com
 *.wporncomics.com
 *.wproxy.info
 *.wptri.com
