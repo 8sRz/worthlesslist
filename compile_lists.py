@@ -105,7 +105,7 @@ try:
         for registered_domain, full_domain in full_and_registered_domain_pairs:
             if registered_domain in whitelisted_allowed_domains:
                 continue
-            else if registered_domain in whitelisted_allowed_except_subdomains_domains:
+            elif registered_domain in whitelisted_allowed_except_subdomains_domains:
                 final_subdomains.add(f"{full_domain}\n")
             else:
                 final_wildcard_domains.add(f"*.{registered_domain}\n")
