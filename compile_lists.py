@@ -48,9 +48,9 @@ try:
                         else:
                             log_message = f"Error: Invalid domain '{domain}' on line {line_number} in file {file_path}\n"
                             output.write(log_message)
-        except FileNotFoundError:
-            log_message = f"Error: File not found: {file_path}"
-            output.write(log_message)
+            except FileNotFoundError:
+                log_message = f"Error: File not found: {file_path}"
+                output.write(log_message)
 
         whitelisted_allowed_domains = set()
         if os.path.exists(whitelist_allowed_file_path):
