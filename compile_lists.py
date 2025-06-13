@@ -44,7 +44,7 @@ try:
                         registered_domain = extracted.registered_domain
     
                         if registered_domain:
-                            registered_domains.add((registered_domain, domain))
+                            full_and_registered_domain_pairs.add((registered_domain, domain))
                         else:
                             log_message = f"Error: Invalid domain '{domain}' on line {line_number} in file {file_path}\n"
                             output.write(log_message)
