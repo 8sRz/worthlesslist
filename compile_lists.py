@@ -7,7 +7,7 @@ sources_folder_path = "./sources"
 fqdn_folder_path = os.path.join(sources_folder_path, 'fqdn')
 
 whitelist_allow_file_path = os.path.join(fqdn_folder_path, 'allow_always.txt')
-whitelist_if_unspecified_file_path = os.path.join(fqdn_folder_path, 'allow_if_unspecified.txt')
+whitelist_allow_if_unspecified_file_path = os.path.join(fqdn_folder_path, 'allow_if_unspecified.txt')
 
 blocklist_file_paths = [
     os.path.join(fqdn_folder_path, 'explicit.txt'), 
