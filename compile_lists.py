@@ -125,7 +125,7 @@ try:
         with open(wildcard_file_path, 'w') as file:
             file.writelines(sorted_wildcard_domains)
 
-        with open(subdomains_path, 'w') as file:
+        with open(subdomain_file_path, 'w') as file:
             file.writelines(sorted_subdomains)
 
         log_message = "Processing complete\n"
