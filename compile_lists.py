@@ -76,7 +76,7 @@ try:
         registered_domains = set()
         subdomains = set()
 
-        for file_path in blocklist_registered_file_paths:
+        for file_path in blocklist_file_paths:
             try:
                 with open(file_path, 'r') as file:
                     lines = file.readlines()
