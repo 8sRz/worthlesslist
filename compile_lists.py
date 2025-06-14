@@ -98,7 +98,7 @@ try:
                             elif fqdn != registered_domain and registered_domain in whitelist_allow_if_unspecified_domains:
                                 subdomains.add(fqdn)
                             else:
-                                registered_domain.add(registered_domain)
+                                registered_domains.add(registered_domain)
                         else:
                             log_message = f"Error: Invalid domain '{domain}' on line {line_number} in file {file_path}\n"
                             output.write(log_message)
