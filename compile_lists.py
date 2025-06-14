@@ -18,7 +18,7 @@ curation_folder_path = "./curation"
 unbound_folder_path = os.path.join(curation_folder_path, 'unbound')
 all_file_path = os.path.join(unbound_folder_path, 'all.txt')
 wildcard_file_path = os.path.join(unbound_folder_path, 'wildcard.txt')
-subdomain_file_path = os.path.join(unbound_folder_path, 'subdomains.txt')
+subdomain_file_path = os.path.join(unbound_folder_path, 'subdomain.txt')
 
 try:
     with open(log_file_path, 'w') as output:
