@@ -118,14 +118,14 @@ try:
         sorted_wildcard_domains = sorted(final_wildcard_domains)
         sorted_subdomains = sorted(final_subdomains)
 
-        with open(all_domains_file_path, 'w') as file:
+        with open(all_file_path, 'w') as file:
             file.writelines(sorted_subdomains)
             file.writelines(sorted_wildcard_domains)
         
-        with open(wildcard_domains_file_path, 'w') as file:
+        with open(wildcard_file_path, 'w') as file:
             file.writelines(sorted_wildcard_domains)
 
-        with open(subdomains_file_path, 'w') as file:
+        with open(subdomains_path, 'w') as file:
             file.writelines(sorted_subdomains)
 
         log_message = "Processing complete\n"
