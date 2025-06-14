@@ -24,8 +24,8 @@ try:
     with open(log_file_path, 'w') as output:
         
         whitelist_allow_domains = set()
-        if os.path.exists(whitelist_allowed_file_path):
-            with open(whitelist_allowed_file_path, 'r') as file:
+        if os.path.exists(whitelist_allow_file_path):
+            with open(whitelist_allow_file_path, 'r') as file:
                 whitelist_lines = file.readlines()
     
             for line_number, line in enumerate(whitelist_lines, start=1):
@@ -44,7 +44,7 @@ try:
                     log_message = f"Error: Invalid domain in whitelist file on line {line_number}: '{domain}'\n"
                     output.write(log_message)
         else:
-            log_message = f"Warning: Whitelist file '{whitelist_allowed_file_path}' not found. No domains were whitelisted from it.\n"
+            log_message = f"Warning: Whitelist file '{whitelist_allow_file_path}' not found. No domains were whitelisted from it.\n"
             output.write(log_message)
         
 
@@ -64,7 +64,7 @@ try:
                 registered_domain = extracted.registered_domain
     
                 if registered_domain:
-                    whitelisted_allowed_except_subdomains_domains.add(registered_domain)
+                    whitelist_allow_if_unspecified_domains.add(registered_domain)
                 else:
                     log_message = f"Error: Invalid domain in whitelist file on line {line_number}: '{domain}'\n"
                     output.write(log_message)
