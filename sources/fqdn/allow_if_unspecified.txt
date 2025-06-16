@@ -1,2 +1,3 @@
 akamaized.net
+brave.com
 cloudfront.net
