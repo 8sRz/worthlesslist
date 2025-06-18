@@ -3468,6 +3468,7 @@
 *.freepornvideos.xxx
 *.freepornzoo.com
 *.freepron.xyz
+*.freeproxy.win
 *.freerapexxx.com
 *.freerealvideo.com
 *.freesafeporn.com
@@ -8417,6 +8418,7 @@
 *.proudwarmsex.com
 *.proxfree.com
 *.proxy-123.com
+*.proxy-youtube.com
 *.proxy.gd
 *.proxyadult.org
 *.proxyium.com
@@ -10775,7 +10777,10 @@
 *.ultrateenporn.com
 *.umalix.com
 *.umd.net
+*.unblock-websites.com
+*.unblockproxy.win
 *.unblockvideos.com
+*.unblockyoutube.video
 *.uncams.com
 *.unceleb.com
 *.uncensored-hentai.top
