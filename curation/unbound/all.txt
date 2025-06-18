@@ -6022,6 +6022,7 @@ th-cdnv1.akamaized.net
 *.lucasentertainment.com
 *.luckyamateurs.com
 *.lucy-v.com
+*.lumiproxy.com
 *.lunascales.com
 *.lupoporno.com
 *.luscious.net
