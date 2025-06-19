@@ -34,6 +34,7 @@ schoprox.com
 sslsecureproxy.com
 stackfront.xyz
 steganos.com
+stopcensoring.me
 testdomainname.xyz
 thejungla.com
 toolsbox.com
@@ -51,3 +52,4 @@ webproxy.lumiproxy.com
 websiteproxy.net
 wproxy.info
 youtubeunblocked.live
+zend2.com
