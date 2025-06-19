@@ -11287,7 +11287,6 @@
 *.wonteens.com
 *.woodmancastingx.com
 *.woodmanforum.com
-*.wordpress.com
 *.worldasianp.com
 *.worldbdsm.net
 *.worldescortindex.com
