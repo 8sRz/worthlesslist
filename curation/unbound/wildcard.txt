@@ -3881,6 +3881,7 @@
 *.genaporn.com
 *.gendercam.com
 *.genderxfilms.com
+*.genmirror.com
 *.germangoogirls.com
 *.germansextube.biz
 *.geschwisterfunke.net
@@ -6600,6 +6601,7 @@
 *.muyzorras.com
 *.mvzfcd.com
 *.mxnillin.com
+*.my-proxy.com
 *.my-sex.cloud
 *.my18pussy.com
 *.my18teens.com
@@ -8425,7 +8427,9 @@
 *.proxyium.com
 *.proxylite.com
 *.proxyorb.com
+*.proxypx.com
 *.proxysite.com
+*.proxysite.one
 *.pssy.xyz
 *.pstirtir.com
 *.ptclassic.com
