@@ -31,6 +31,7 @@ proxylite.com
 proxyorb.com
 proxysite.com
 schoprox.com
+sex-com.proxypx.com/
 sslsecureproxy.com
 stackfront.xyz
 steganos.com
@@ -41,9 +42,11 @@ toolsbox.com
 unblockvideos.com
 uproxy.online
 us4.freeproxy.win
+us5.my-proxy.com
 us5.unblockproxy.win
 us5.unblock-websites.com
 us5.unblockyoutube.video
+us6.proxysite.one
 us6.proxy-youtube.com
 videoproxy.site
 vpnbook.com
@@ -51,5 +54,6 @@ vpnproxy.site
 webproxy.lumiproxy.com
 websiteproxy.net
 wproxy.info
+www.genmirror.com
 youtubeunblocked.live
 zend2.com
