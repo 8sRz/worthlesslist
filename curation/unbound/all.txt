@@ -1938,6 +1938,7 @@ thehiphopconsultant.wordpress.com
 *.cdnedgecontents.com
 *.cdnjk.com
 *.cdnmag.com
+*.cdnstreame.net
 *.cdnvault.com
 *.cdsecurecloud-dt.com
 *.cduniverse.com
@@ -2100,6 +2101,7 @@ thehiphopconsultant.wordpress.com
 *.cloudfrale.com
 *.cloudimagesb.com
 *.cloudisexy.com
+*.cloudnestra.com
 *.cloudvideosa.com
 *.cloudyzgirl.com
 *.club-geheimtipp.ch
@@ -6566,6 +6568,7 @@ thehiphopconsultant.wordpress.com
 *.movie-xxx-porn.com
 *.movieblogmovie.com
 *.moviesand.com
+*.moviesapi.club
 *.moviesboys.com
 *.moviesgaybears.com
 *.movieshark.com
@@ -10943,6 +10946,7 @@ thehiphopconsultant.wordpress.com
 *.videoxxx.mobi
 *.videoxxx.org
 *.videoxxx.sex
+*.vidfast.pro
 *.vidfuck.pro
 *.vidhenai.com
 *.vidhidevip.com
@@ -10952,6 +10956,9 @@ thehiphopconsultant.wordpress.com
 *.vidoexxnx.pro
 *.vidoz8.com
 *.vidsgator.com
+*.vidsrc.co
+*.vidsrc.pm
+*.vidsrc.vip
 *.vidstubexxx.com
 *.vidtheatre.com
 *.vidx.one

@@ -1931,6 +1931,7 @@
 *.cdnedgecontents.com
 *.cdnjk.com
 *.cdnmag.com
+*.cdnstreame.net
 *.cdnvault.com
 *.cdsecurecloud-dt.com
 *.cduniverse.com
@@ -2093,6 +2094,7 @@
 *.cloudfrale.com
 *.cloudimagesb.com
 *.cloudisexy.com
+*.cloudnestra.com
 *.cloudvideosa.com
 *.cloudyzgirl.com
 *.club-geheimtipp.ch
@@ -6559,6 +6561,7 @@
 *.movie-xxx-porn.com
 *.movieblogmovie.com
 *.moviesand.com
+*.moviesapi.club
 *.moviesboys.com
 *.moviesgaybears.com
 *.movieshark.com
@@ -10936,6 +10939,7 @@
 *.videoxxx.mobi
 *.videoxxx.org
 *.videoxxx.sex
+*.vidfast.pro
 *.vidfuck.pro
 *.vidhenai.com
 *.vidhidevip.com
@@ -10945,6 +10949,9 @@
 *.vidoexxnx.pro
 *.vidoz8.com
 *.vidsgator.com
+*.vidsrc.co
+*.vidsrc.pm
+*.vidsrc.vip
 *.vidstubexxx.com
 *.vidtheatre.com
 *.vidx.one
