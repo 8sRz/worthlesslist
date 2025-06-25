@@ -2360,6 +2360,7 @@
 *.dasbdsm.com
 *.data-bluesky.jp
 *.data18.com
+*.databasegdriveplayer.xyz
 *.datatech.icu
 *.datawav.club
 *.date2cheat.com
@@ -10770,6 +10771,7 @@
 *.ubersoccer.co.uk
 *.udvl.com
 *.uflash.tv
+*.uflix.cc
 *.ufreeporn.org
 *.ugaromix.com
 *.ugj.net
