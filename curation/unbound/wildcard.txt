@@ -3568,6 +3568,7 @@
 *.frozenporn.net
 *.frprn.com
 *.frumpytube.com
+*.fsharetv.com
 *.fsiblog.club
 *.fsiblog2.com
 *.fsiblog3.club
