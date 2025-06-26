@@ -1,4 +1,5 @@
 akamaized.net
 brave.com
 cloudfront.net
+pages.dev
 wordpress.com
