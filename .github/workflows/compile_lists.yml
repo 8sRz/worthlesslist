@@ -6,6 +6,7 @@ on:
       - sources/fqdn/allow_always.txt  # Trigger workflow when this file is updated
       - sources/fqdn/allow_if_unspecified.txt # Trigger workflow when this file is updated
       - sources/fqdn/explicit.txt  # Trigger workflow when this file is updated
+      - sources/fqdn/indecent.txt  # Trigger workflow when this file is updated
       - sources/fqdn/proxy.txt  # Trigger workflow when this file is updated
   workflow_dispatch:  # Allow manual triggering of the workflow
 
