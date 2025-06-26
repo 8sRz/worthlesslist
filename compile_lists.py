@@ -10,7 +10,8 @@ whitelist_allow_file_path = os.path.join(fqdn_folder_path, 'allow_always.txt')
 whitelist_allow_if_unspecified_file_path = os.path.join(fqdn_folder_path, 'allow_if_unspecified.txt')
 
 blocklist_file_paths = [
-    os.path.join(fqdn_folder_path, 'explicit.txt'), 
+    os.path.join(fqdn_folder_path, 'explicit.txt'),
+    os.path.join(fqdn_folder_path, 'indecent.txt'),
     os.path.join(fqdn_folder_path, 'proxy.txt')
 ]
 
