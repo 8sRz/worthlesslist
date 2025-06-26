@@ -7373,6 +7373,7 @@ thehiphopconsultant.wordpress.com
 *.pabporn.com
 *.pacinosadventures.com
 *.pacopacomama.com
+*.pages.dev
 *.paheal.net
 *.painal.net
 *.painaltube.com
@@ -11163,6 +11164,7 @@ thehiphopconsultant.wordpress.com
 *.wapka.cc
 *.warashi-asian-pornstars.fr
 *.warddogs.com
+*.warezcdn.link
 *.warporn.pro
 *.waskucity.com
 *.wasteland.com
