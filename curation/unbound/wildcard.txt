@@ -7366,7 +7366,6 @@
 *.pabporn.com
 *.pacinosadventures.com
 *.pacopacomama.com
-*.pages.dev
 *.paheal.net
 *.painal.net
 *.painaltube.com
