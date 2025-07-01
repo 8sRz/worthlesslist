@@ -54,6 +54,7 @@ vpnproxy.site
 webproxy.lumiproxy.com
 websiteproxy.net
 wproxy.info
+www.52aa4b608595.site
 www.genmirror.com
 youtubeunblocked.live
 zend2.com
