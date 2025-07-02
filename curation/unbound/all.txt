@@ -3,6 +3,7 @@ d2rv3np9wrkgl5.cloudfront.net
 d3ns5crcgwfodk.cloudfront.net
 ddr8v13bs4e1n.cloudfront.net
 heartive.pages.dev
+qstream.pages.dev
 search.brave.com
 th-cdnv1.akamaized.net
 thehiphopconsultant.wordpress.com
@@ -5567,6 +5568,7 @@ thehiphopconsultant.wordpress.com
 *.k9vidz.com
 *.kabinedasnovinhas.com
 *.kabukasmorphs.com
+*.kaitovault.com
 *.kalporn.com
 *.kamababa.com
 *.kamababa.desi
