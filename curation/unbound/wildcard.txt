@@ -12379,6 +12379,7 @@
 *.yurmag.com
 *.yushi.li
 *.yuvutu.com
+*.yuyuproxy.com
 *.z-celebs.com
 *.z00.world
 *.zazzybabes.com
