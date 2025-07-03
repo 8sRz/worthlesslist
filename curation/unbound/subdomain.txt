@@ -4,6 +4,7 @@ d3ns5crcgwfodk.cloudfront.net
 ddr8v13bs4e1n.cloudfront.net
 heartive.pages.dev
 qstream.pages.dev
+salix.pages.dev
 search.brave.com
 th-cdnv1.akamaized.net
 thehiphopconsultant.wordpress.com
