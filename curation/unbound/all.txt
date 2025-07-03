@@ -6607,6 +6607,7 @@ thehiphopconsultant.wordpress.com
 *.moviessexscenes.com
 *.moviestubegay.com
 *.moviesvintage.com
+*.mp4hydra.org
 *.mp4moviez.promo
 *.mp4porn.co
 *.mp4porn.de
@@ -7017,6 +7018,7 @@ thehiphopconsultant.wordpress.com
 *.notmygrandpa.com
 *.novafork.cc
 *.novamovie.net
+*.novastream.top
 *.novelcrow.com
 *.novinhasdozapzap.com
 *.novoboobs.com
