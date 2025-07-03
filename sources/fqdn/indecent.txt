@@ -1,6 +1,10 @@
+26efp.com
 archive.org
+backup.filmu.fun
 cinego.co
+cinemaos.live
 comura.xyz
+filmuserver.netlify.app
 filmzie.com
 hydrahd.sh
 lekuluent.et
@@ -22,5 +26,6 @@ vimeo.com
 watch.plex.tv
 www.1shows.ru
 www.arte.tv
+www.gledajhd.com
 www.kaitovault.com
 www.rgshows.me
