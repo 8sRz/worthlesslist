@@ -31,7 +31,7 @@ proxylite.com
 proxyorb.com
 proxysite.com
 schoprox.com
-sex-com.proxypx.com/
+sex-com.proxypx.com
 sslsecureproxy.com
 stackfront.xyz
 steganos.com
@@ -57,7 +57,14 @@ wproxy.info
 www.3b2175de5bc8.space
 www.52aa4b608595.site
 www.8da0bf35b000.xyz
+www.9b4a5607ed20.xyz
+www.blockaway.net
+www.croxy.network
+www.croxy.org
+www.croxyproxy.net
 www.genmirror.com
+www.stackfront.xyz
+www.youtubeunblocked.live
 youtubeunblocked.live
 yuyuproxy.com
 zend2.com
