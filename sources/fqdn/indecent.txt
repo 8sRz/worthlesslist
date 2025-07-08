@@ -14,6 +14,7 @@ hydrahd.sh
 lekuluent.et
 mixdrop.my
 mocine.cam
+movies123.pk
 movies2watch.tv
 mp4hydra.org
 neoxa.transdev.pw
@@ -33,6 +34,8 @@ tubitv.com
 turbovid.eu
 vimeo.com
 watch.plex.tv
+watchseries.cyou
+watchseries.lol
 www.1shows.ru
 www.arte.tv
 www.fmovies.cat
