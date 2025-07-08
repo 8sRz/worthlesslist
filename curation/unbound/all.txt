@@ -6606,6 +6606,7 @@ thehiphopconsultant.wordpress.com
 *.mov18plus.com
 *.movie-xxx-porn.com
 *.movieblogmovie.com
+*.movies123.pk
 *.movies2watch.tv
 *.moviesand.com
 *.moviesapi.club
@@ -11241,6 +11242,8 @@ thehiphopconsultant.wordpress.com
 *.watchpornfree.info
 *.watchpornx.com
 *.watchretrosex.com
+*.watchseries.cyou
+*.watchseries.lol
 *.watchseriesonline.nl
 *.watchxxxfree.pw
 *.waterdamagesandiego.org
