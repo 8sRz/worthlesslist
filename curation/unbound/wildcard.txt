@@ -3597,6 +3597,7 @@
 *.fsiblog2.com
 *.fsiblog3.club
 *.fsmevh.com
+*.fstream365.com
 *.ftopx.com
 *.ftte.fun
 *.ftte.xyz
@@ -9617,6 +9618,7 @@
 *.sohimi.com
 *.sohu.to
 *.soindianporn.com
+*.solarmovie.vip
 *.soloporno.xxx
 *.some.porn
 *.somee.com
