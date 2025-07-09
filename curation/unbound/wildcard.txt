@@ -2227,7 +2227,6 @@
 *.crossdressingamateurs.com
 *.croxy.network
 *.croxy.org
-*.croxy.red
 *.croxyproxy.best
 *.croxyproxy.com
 *.croxyproxy.net
