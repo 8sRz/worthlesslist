@@ -3307,6 +3307,7 @@ thehiphopconsultant.wordpress.com
 *.flyingjizz.com
 *.flyproxy.com
 *.fmddl.com
+*.fmovies-us.store
 *.fmovies.cat
 *.fmovies.international
 *.fmovies24.to
