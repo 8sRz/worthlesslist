@@ -9,10 +9,10 @@ comura.xyz
 filemoon.in
 filmuserver.netlify.app
 filmzie.com
-fmovies-us.store
 flickystream.net
 flixer.su
 flixhouse.com
+fmovies-us.store
 fstream365.com
 hydrahd.sh
 kurdsubtitle.net
@@ -22,6 +22,7 @@ mocine.cam
 movies123.pk
 movies2watch.tv
 mp4hydra.org
+mva1.watchsomuch.tv
 neoxa.transdev.pw
 nontongo.win
 novafork.cc
@@ -44,6 +45,7 @@ vimeo.com
 watch.plex.tv
 watchseries.cyou
 watchseries.lol
+watchsomuch.tv
 www.1shows.ru
 www.arte.tv
 www.fmovies.cat
