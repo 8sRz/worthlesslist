@@ -2246,8 +2246,10 @@ thehiphopconsultant.wordpress.com
 *.croxy.org
 *.croxyproxy.best
 *.croxyproxy.com
+*.croxyproxy.com.in
 *.croxyproxy.net
 *.croxyproxy.rocks
+*.croxyproxycom.id
 *.cruel-mistress.net
 *.cruelrape.com
 *.cruelvideoz.com
