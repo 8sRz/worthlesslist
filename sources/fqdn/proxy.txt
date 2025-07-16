@@ -8,8 +8,10 @@ coproxy.io
 croxy.org
 croxyproxy.best
 croxyproxy.com
+croxyproxy.com.in
 croxyproxy.net
 croxyproxy.rocks
+croxyproxycom.id
 datatech.icu
 fastproxy.win
 flyproxy.com
