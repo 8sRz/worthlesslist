@@ -9929,6 +9929,7 @@
 *.tastyblacks.com
 *.tastymovie.com
 *.tatarada.com.br
+*.taurinfox.com
 *.taxi69.com
 *.taxidrivermovie.com
 *.tbabes.live
