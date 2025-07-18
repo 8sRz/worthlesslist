@@ -5276,6 +5276,7 @@
 *.inxxx.com
 *.inxxxvideo.com
 *.ipknk.ru
+*.iplayerhd.com
 *.iporn.su
 *.iporn.win
 *.ipornogratis.xxx
