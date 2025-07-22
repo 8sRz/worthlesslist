@@ -8839,6 +8839,7 @@
 *.rockshockpop.com
 *.rodneymoore.com
 *.rogreviews.com
+*.roku.com
 *.rolotube.com
 *.romanticdepot.com
 *.romanticflirt.life
@@ -10188,6 +10189,7 @@
 *.tempestforge.top
 *.temptingtown.com
 *.tenderchicksfx.com
+*.tenies-online.best
 *.tenmilliongalleries.com
 *.tenshigao.com
 *.tentacle-porn.com
