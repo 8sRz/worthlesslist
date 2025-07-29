@@ -2342,6 +2342,7 @@
 *.d0g.monster
 *.d0g.space
 *.d2pass.com
+*.d679ddc50240.site
 *.daa1d49e1ec7.xyz
 *.dachicky.com
 *.dachix.com
